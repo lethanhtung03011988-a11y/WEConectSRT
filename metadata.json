@@ -1,0 +1,5 @@
+{
+  "name": "Audio to SRT Generator OK",
+  "description": "An intelligent tool that automatically transcribes audio files and generates synchronized SRT subtitle files using the Gemini API.",
+  "requestFramePermissions": []
+}
